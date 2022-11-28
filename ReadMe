@@ -1,1 +1,18 @@
-This is a readme file.
+Fiskonnect is a web app based on React and MERN CRUD stack. It is developed by two students Rejin Nepal and Asha Hopkins, the students of Advanced Front End Development 
+course in Fisk University.
+
+Q. What is Fiskonnect?
+A. Fiskonnect is a simple app where a user can store the information (name, email address, age, gender) of former and present Fisk students, alumni, faculty and staff. In
+addition to this, a user can edit the information and update them. If the information is no longer needed, the information can be deleted as well.
+
+Q. How was Fiskonnect built?
+A. Fiskonnect was built with the concepts of ReactJS, NodeJS, Express, and MongoDB with support from a youtube tutorial video.
+
+Q. How can I run Fiskonnect?
+A. There are some steps to be followed before running Fiskonnect. They are:
+  1. Install required dependencies ny running $ npm install in the fiskonnect (main) folder.
+  2. Install required dependencies ny running $ npm install in the react-src folder.
+  3. Download mongodb compass in your local machine and installing it.
+  4. In the fiskonnect folder, run the command $ npm run start.
+  This way Fiskonnect should be running in your localhost.
+ 
