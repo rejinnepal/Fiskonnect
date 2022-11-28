@@ -177,7 +177,7 @@ class FormUser extends Component {
           content={formErrorMessage}
         />
         <Button color={this.props.buttonColor} floated='right'>{this.props.buttonSubmitTitle}</Button>
-        <br /><br /> {/* Yikes! Deal with Semantic UI React! */}
+        <br /><br /> 
       </Form>
     );
   }
